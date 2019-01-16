@@ -1,0 +1,3 @@
+echo 
+REM text
+pause

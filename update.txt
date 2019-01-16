@@ -1,0 +1,15 @@
+1.下载最新版的apktool的jar包:
+   https://bitbucket.org/iBotPeaches/apktool/downloads
+   将下载的包重名名为 apktool.jar,更新到apktool目录
+
+
+2.下载最新版的dex2jar的jar包:
+   http://tenet.dl.sourceforge.net/project/dex2jar
+
+   后将目录中的所有文件更新到dex2jar_00915目录中
+
+
+
+3.当前版本：
+  apktool： 2.3.4 
+  dex2jar： 2.0

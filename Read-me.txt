@@ -1,0 +1,6 @@
+1.配置环境变量*\decompileapk,目的是在任何目录下都可以执行命令 dApks
+2.切换到apk包路径
+3.dApks **.apk :反编译某个apk
+  dApks：反编译该目录下所有的apk
+  dApksDeep：支持反编译  子目录下的apk
+   
